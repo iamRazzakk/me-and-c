@@ -9,6 +9,28 @@
 
 int main()
 {
+    int n;
+    scanf("%d", &n);
+    int arr[n];
+
+    for (int i = 0; i < n; i++)
+    {
+        scanf("%d", &arr[i]);
+        // printf("%d ", arr[i]);
+        /* code */
+    }
+
+    int t = n - 1;
+    while (t >= 0)
+    {
+        /* code */
+        if (t % 2 == 1)
+        {
+
+            printf("%d ", arr[t]);
+        }
+        t--;
+    }
 
     return 0;
 }
