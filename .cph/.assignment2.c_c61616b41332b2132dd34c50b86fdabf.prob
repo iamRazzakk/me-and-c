@@ -1,0 +1,1 @@
+{"name":"Local: assignment2","url":"d:\\Experiment\\C\\assignment2.c","tests":[{"id":1760678928014,"input":"5","output":"Hello\nHello\nHello\nHello\nHello"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Experiment\\C\\assignment2.c","group":"local","local":true}
