@@ -22,7 +22,7 @@ int main()
 
     {
         /* code */
-        count[arr[i]]++;
+        count[arr[i]]++; 
     }
 
     for (int i = 0; i < 6; i++)
@@ -30,4 +30,4 @@ int main()
         printf("%d -> %d\n", i, count[i]);
     } 
     return 0;
-}
+} 
