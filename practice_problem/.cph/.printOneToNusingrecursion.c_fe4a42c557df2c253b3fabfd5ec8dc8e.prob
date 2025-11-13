@@ -1,0 +1,1 @@
+{"name":"Local: printOneToNusingrecursion","url":"d:\\Experiment\\C\\practice_problem\\printOneToNusingrecursion.c","tests":[{"id":1762915163803,"input":"4","output":"1\n2\n3\n4\n5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Experiment\\C\\practice_problem\\printOneToNusingrecursion.c","group":"local","local":true}
